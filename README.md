@@ -27,3 +27,4 @@ Invoke-RestMethod -Uri "http://localhost:3000/api/books/1" -Method Put -ContentT
 -- curl to remove a book
 curl.exe -X DELETE "http://localhost:3000/api/books/1"
 
+Seydina M M Dione
